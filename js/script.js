@@ -1,4 +1,4 @@
-const numberOfFilms = +prompt("Сколько фильмов вы посмотрели?", "");
+/* const numberOfFilms = +prompt("Сколько фильмов вы посмотрели?", "");
 
 
 const personalMovieDB = {
@@ -20,4 +20,11 @@ personalMovieDB.movies[a] = b;
 personalMovieDB.movies[c] = d;
 
 
-console.log(personalMovieDB);
+console.log(personalMovieDB); */
+
+
+if (4 == 9) {
+    console.log("ok");
+}  else {
+    console.log("error");
+}
